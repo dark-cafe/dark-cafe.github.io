@@ -38,7 +38,7 @@ section {
 }
 
 .list-group-item {
-    background-color: #f5f0dad7;
+    background-color: #f9f6ead7;
 }
 
 .card {
@@ -116,7 +116,6 @@ section {
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-
 }
 
 #cafe-main-image-brand h1 {
@@ -307,6 +306,12 @@ footer a:hover {
     background: url('./images/dessert.jpg');
 }
 
+#prefood {
+    background: url('./images/prefood.jpg');
+}
+#food {
+    background: url('./images/food.jpg');
+}
 /* media  queries */
 @media screen and (max-width: 575.98px) {
     section {
